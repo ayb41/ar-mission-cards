@@ -1,0 +1,48 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# Visual Studio / IDE
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Gradle
+.gradle/
+
+# Secrets
+.env
+*.keystore
+*.jks
+
+# Additional Unity / Visual Studio temporary files
+/.utmp/
+*.vsconfig
+/*_BurstDebugInformation_DoNotShip/
